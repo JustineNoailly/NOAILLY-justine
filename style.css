@@ -1,0 +1,49 @@
+@import url("components2/avatar.css");
+@import url("components2/banner.css");
+@import url("components2/buttons.css"); 
+@import url("components2/cards.css"); 
+
+body { 
+	font-sixe : 30 px ;
+	background-position: center;
+}
+
+p {
+	font-size: 15 px;
+	border-bottom-color: 10px; 
+}
+
+
+.container{
+	width: 300 px;
+	margin: 0px auto;
+	border-radius: 10px; 
+	background-position: center;
+}
+
+/*div {*/
+/*	background: #B5E5CF;
+	border-bottom: 10px solid darkgreen;
+	background-position: center;
+}
+
+div {
+	border-top: 1px solid red;
+	border-right : 2px dotted black;
+	border-bottom : 1px dashed green;
+	border-left : 2px dotted black;
+}*/	
+
+
+.img-circle{
+	border-radius: 50px;
+	size: 10px;
+}
+
+/*div parent .flex-containers { display : flex; 
+}
+
+.flex-wrap: wrap; 
+.flex-container : {space-between }
+. flex-container { align-....}*/
+

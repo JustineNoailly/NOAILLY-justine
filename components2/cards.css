@@ -1,0 +1,11 @@
+.card{
+	padding: 8px;
+	border: 1px solid black;
+	box-shadow: ;
+}
+
+.blue-text{
+	color:darkgreen;
+	font-size: 15px;
+	letter-spacing: 2px;
+}
